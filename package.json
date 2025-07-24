@@ -1,0 +1,19 @@
+{
+  "name": "reverse-proxy",
+  "version": "1.0.0",
+  "description": "Cloudflare Workers 工具包 - 包含反向代理和文本存储服务",
+  "main": "workers.js",  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cloudflare",
+    "workers",
+    "reverse-proxy",
+    "text-storage",
+    "toolkit",
+    "cors",
+    "github-raw",
+    "pastebin"
+  ],  "author": "",
+  "license": "MIT"
+}
